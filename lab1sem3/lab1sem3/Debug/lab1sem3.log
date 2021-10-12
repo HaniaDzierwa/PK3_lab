@@ -1,0 +1,7 @@
+﻿  Punkt.cpp
+  Tablica.cpp
+  lab1sem3.cpp
+C:\Users\hania\Desktop\lab1sem3\lab1sem3\lab1sem3.cpp(18,10): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\hania\Desktop\lab1sem3\lab1sem3\lab1sem3.cpp(19,12): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+  Generowanie kodu...
+  lab1sem3.vcxproj -> C:\Users\hania\Desktop\lab1sem3\Debug\lab1sem3.exe
